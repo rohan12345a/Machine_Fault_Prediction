@@ -16,8 +16,8 @@ https://github.com/user-attachments/assets/0d50cc82-ed42-4002-9d66-368645f48bf5
 ## POWER BI Dashboard Images:
 <img width="500" alt="powerbi011" src="https://github.com/user-attachments/assets/9fbfeacf-e37d-4768-a38d-bc2620adbc05" />
 
+<img width="497" alt="powerbi033" src="https://github.com/user-attachments/assets/5080f2c4-4d3b-40d9-8372-3fd2195064ee" />
 
-<img width="385" alt="powerbi022" src="https://github.com/user-attachments/assets/d26592d6-7c1d-4006-9c03-5f572503835f" />
 
 
 ## Key Steps
